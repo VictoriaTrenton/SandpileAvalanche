@@ -4,10 +4,11 @@
 
 Self-directed final project for third-year Computational Physics course
 
-Author: Victoria Trenton
-
 "The purpose of this sandpile study was to investigate the relationship of the distribution of avalanche sizes and the change in distribution after holes were added to the pile."
 
+## Credit
+
+Author: Victoria Trenton
 
 ## Setup
 
