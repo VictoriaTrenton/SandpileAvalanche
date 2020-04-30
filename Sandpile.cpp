@@ -1,7 +1,6 @@
 //==============================================================================
 //	Phys382 - Computational Physics Project
-//	Author: Vicki Trenton
-//	Date: 16 Dec. 2009
+//	Author: Victoria Trenton
 //
 // This program models the dynamics of a sandpile using techniques of cellular
 // automata.
