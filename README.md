@@ -1,5 +1,11 @@
 # SandpileAvalanche
 
+## Main Points
+
+•	Modeled sandpile dynamics with cellular automata techniques using C++ as self-directed course final project, simulating sandpile avalanches above holed floors
+
+•	Visualized avalanche outcomes using numerical-computing software (MATLAB)
+
 ## Description
 
 This was a self-directed final project for my third-year Computational Physics course.
